@@ -3,7 +3,7 @@
 
 **Image embedding algorithm in SnapMod project : https://www.snapmode.ir/**
 
-**Unfortunately, due to the commercial nature of the product, I can not share its code. Please Find the paper at this URL. : https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4057354** 
+**Unfortunately, due to the commercial nature of the product, I can not share its code. Please Find the paper at this URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4057354** 
 
 # Abstract 
 
@@ -13,6 +13,7 @@ Content-based image retrieval systems have become popular in various fields such
 ![image](https://user-images.githubusercontent.com/41056415/162425967-c0c17ba2-697e-4ff9-bc49-14cc19757e41.png)
 
 **Evaluation Results of Baseline methods on Different Datasets**
+![image](https://user-images.githubusercontent.com/41056415/162426886-7d066692-5482-4af4-afa6-4fa65c2e9e46.png)
 
 **Generator and Discriminator Networks**
 

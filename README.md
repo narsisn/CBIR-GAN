@@ -15,6 +15,10 @@ Content-based image retrieval systems have become popular in various fields such
 **Evaluation Results of Baseline methods on Different Datasets**
 ![image](https://user-images.githubusercontent.com/41056415/162426886-7d066692-5482-4af4-afa6-4fa65c2e9e46.png)
 
+![image](https://user-images.githubusercontent.com/41056415/162427283-158b4d2e-e617-4b3e-b350-6b1f7c57b916.png)
+
+![image](https://user-images.githubusercontent.com/41056415/162427311-aaab17ca-0ac5-4f0d-9ad4-94575fabbc41.png)
+
 **Generator and Discriminator Networks**
 
 ![image](https://user-images.githubusercontent.com/41056415/162426007-c2e0ed81-b386-4a5a-ba6e-a9bd635df9ab.png)
